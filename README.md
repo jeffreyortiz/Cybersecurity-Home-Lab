@@ -1,4 +1,3 @@
-# Cybersecurity-Home-Lab
 <h1>Cybersecurity Home Lab - SOC Analyst Environment</h1>
 
 <h2>Description</h2>
